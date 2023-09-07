@@ -1,2 +1,3 @@
 # WeatherApp
-A weather forecast app created to practice implementing API data.
+A weather forecast app created to practice implementing API data,
+promises and async/await

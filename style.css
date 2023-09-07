@@ -1,0 +1,29 @@
+html {
+    min-height: 100%;
+    background-image: url(./img/sky.jpg);
+    background-size: cover;
+}
+
+
+.displayInfo {
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+label {
+    color: white;
+}
+
+.displayInfo {
+    color: white;
+}
+
+.main-content {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
